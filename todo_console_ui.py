@@ -1,3 +1,5 @@
+# Basic to-do application with user interaction happening in the console only 
+
 # Imports 
 from datetime import datetime
 from datetime import date
